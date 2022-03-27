@@ -2,6 +2,8 @@
 
 Hi, my name is Marcelo Hansen, I live in Portugal :portugal:. I'm in career transition to the Data Analysis field. Currently I study at [Alura](https://www.alura.com.br/) and [Hashtag Treinamentos](https://www.hashtagtreinamentos.com/).
 
+More information about my career can be accessed on my [interactive CV](https://bit.ly/CVMarceloHansen).
+
 ### Experience
 
 In my career I have a background of 17 years in transport engineering, both in public and private sector companies. Among my activities, I highlight engineering planning and projects, data analysis, contracts and team management.
@@ -21,16 +23,18 @@ Previously, for 4 years, I worked with computer maintenance, installation of net
 
 - :gear: Bachelor in Civil Engineering – [Universidade de Passo Fundo (UPF)](https://www.upf.br/) :brazil:
 
-- :atom: Technical in Eletronics – Escola Cecy Leite Costa, Passo Fundo :brazil:
+- :atom: Eletronics Technician – Escola Cecy Leite Costa, Passo Fundo :brazil:
 
 ## Skills
 
 - MS Excel
 - Power BI
-- SQL Server
 - Python
+- SQL Server
+- MS Office
 - Autocad
 - GIS
+- Analytical ability
 - Interpersonal relationship
 - Organization
 - Leadership
